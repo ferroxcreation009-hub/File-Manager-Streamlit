@@ -4,7 +4,7 @@
 A small, secure file management UI built with Streamlit. Supports Create, Read, Update, and Delete operations on text files — all safely sandboxed to a local workspace folder.
 
 ## 🔗 Live Demo
-[View Live App](#) <!-- replace # with your Streamlit Cloud URL once deployed -->
+[View Live App](https://file-manager-app-s2fgntge9styrnuvpjsdxk.streamlit.app/) 
 
 ## ✨ Features
 - **Browse** — view all files in the workspace with size and last-modified timestamp
